@@ -1,0 +1,15 @@
+@media (prefers-color-scheme: dark) {
+  .darkMode {
+    background: #33312e;
+    color: #c2c1c1;
+    outline: 5px solid rgb(255, 111, 0);
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .lightMode {
+    background: #33312e;
+    color: #c2c1c1;
+    outline: 5px solid rgb(255, 111, 0);
+  }
+}
