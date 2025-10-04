@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Kd1mEqg3)
 # Responsive Branching
 
 In this week's prep, you completed a responsive grid design that uses two "breakpoints" to distinguish three layouts for a page. In this lab, you will continue with the same code base (but you should start from our version available here).
@@ -86,6 +87,6 @@ To handle the "anchor links", you'll need to include an ev parameter in your eve
 # Acknowledgements
 
 Developers:
-1. Nay Bored
+1. Kyle Shipman
 
 With huge thanks to the ~~CS 343 cheat code~~ [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Realizing_common_layouts_using_grids#a_responsive_layout_with_1_to_3_fluid_columns_using_grid-template-areas).
